@@ -1,0 +1,19 @@
+{
+  "name": "megane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megane9988/awsdeploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megane9988/awsdeploy/issues"
+  },
+  "homepage": "https://github.com/megane9988/awsdeploy#readme"
+}
